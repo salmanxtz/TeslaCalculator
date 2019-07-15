@@ -1,5 +1,6 @@
 import React from 'react';
 import './TeslaNotice.css';
+
 const TeslaNotice = () => (
   <div className="tesla-battery__notice">
     <p>
@@ -14,4 +15,5 @@ const TeslaNotice = () => (
     </p>
   </div>
 )
+
 export default TeslaNotice;
